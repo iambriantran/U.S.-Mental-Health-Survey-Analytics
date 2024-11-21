@@ -31,11 +31,15 @@ The objective is to examine patterns in workplace mental health, including demog
 - **Demographics**:
   - **Age Distribution**: Majority of respondents fall into the 21–30 and 31–65 age groups.
   - **Gender Breakdown**: Gender-specific analysis of mental health treatment-seeking behavior.
+  - Majority of respondents are male (555), then female (179).
 - **Company Characteristics**:
   - Employee count influences mental health resources and treatment-seeking.
   - Larger companies (1000+ employees) reported higher rates of mental health support.
+  - While there are 405 individuals that seek help, there are only 187 companies that provide resources on how to seek help (25%).
 - **Employment Characteristics**:
-  - Analysis of self-employment, remote work, and industry type.
+  - Self-Employed or not, both groups have the same percentage of people who seek treatment (54%).
+  - 56% of remote workers seek treatment, while 53% of non-remote workers seek treatment.
+  - 55% of the workers in tech seek treatment, while 52% of the workers in non-tech companies seek treatment.
 - **Geographical Distribution**: Interactive map showing responses by state.
 
 ---
