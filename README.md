@@ -20,6 +20,11 @@ The objective is to examine patterns in workplace mental health, including demog
 
 ---
 
+## Tableau Dashboard
+(https://github.com/iambriantran/U.S.-Mental-Health-Survey-Analytics/blob/main/Mental%20Health%20Survey%20Analysis.png)
+
+---
+
 ## Key Insights from the Tableau Dashboard
 - **Survey Participation**: The dashboard includes data from 742 participants, of which 405 have sought mental health treatment.
 - **Demographics**:
