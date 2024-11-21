@@ -21,7 +21,7 @@ The objective is to examine patterns in workplace mental health, including demog
 ---
 
 ## Tableau Dashboard
-![Dashboard Preview](./U.S.-Mental-Health-Survey-Analytics/MentalHealthSurveyAnalysis.png)
+![Dashboard Preview](./U.S.-Mental-Health-Survey-Analytics/Mental-Health-Survey-Analysis.png)
 [Click to view dashboard in Tableau Public.](https://public.tableau.com/app/profile/brian3322/viz/U_SMentalHealthSurveyAnalysis/MentalHealthSurveyAnalysis#2)
 
 ---
