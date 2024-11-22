@@ -6,6 +6,14 @@ This project analyzes mental health trends in the U.S. workplace using data from
 
 ## Project Objective
 The objective is to examine patterns in workplace mental health, including demographic factors, treatment-seeking behavior, and company-level influences. The final analysis is presented as an interactive Tableau dashboard, aiming to provide actionable insights for decision-makers and stakeholders.
+- Which age groups are most likely to seek mental health treatment?
+- How does gender influence the likelihood of seeking treatment?
+- Are remote workers more or less likely to seek mental health support compared to on-site employees?
+- What is the relationship between self-employment and treatment-seeking behavior?
+- How do workplace policies, such as leave policies or supervisor support, impact mental health treatment rates?
+- What role does coworker support play in employees’ mental health outcomes?
+- How do mental health issues correlate with company size, job function, or work arrangements?
+
 
 ---
 
